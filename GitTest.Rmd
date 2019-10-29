@@ -1,0 +1,18 @@
+---
+title: "GitTest"
+author: "Tara Mercene"
+date: "10/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+LETS GIT ITTTTTTTTTT
+
+```{r}
+9 + 10
+```
+
+
